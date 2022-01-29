@@ -1,0 +1,4 @@
+<Response>
+	<Say voice="alice">TEST</Say>
+	<Play>https://github.com/Alexicazana/Rooster/blob/main/sample-3s.mp3</Play>
+</Response>
